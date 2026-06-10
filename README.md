@@ -20,7 +20,7 @@ I build things that are both technically grounded and genuinely useful — from 
 
 **[OrgDoc AI](https://github.com/Alaska2005/OrgDocAI)** — [Live](https://org-doc-ai.vercel.app)
 
-A full-stack platform for organizations to manage events, documents, and media — with an AI chatbot and semantic search built on top using RAG (LangChain + ChromaDB). Built with React, Node.js, PostgreSQL, and Cloudinary.
+A full-stack platform for organizations to manage events, documents, and media — with an AI chatbot and semantic search built on top using RAG Built with React, Node.js, PostgreSQL, and Supabase.
 
 ---
 
