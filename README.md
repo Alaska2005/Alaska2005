@@ -35,12 +35,3 @@ A low-cost, portable radio telescope for observing solar activity. Uses RTL-SDR 
 A GUI-based tool for capturing and analyzing the 21 cm hydrogen line signal via RTL-SDR — used in amateur radio astronomy setups.
 
 ---
-
-## GitHub Stats
-
-![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaska2005&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaska2005&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-Alaska2005-181717?style=flat&logo=github)](https://github.com/Alaska2005)
