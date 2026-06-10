@@ -23,6 +23,11 @@ I build things that are both technically grounded and genuinely useful — from 
 A full-stack platform for organizations to manage events, documents, and media — with an AI chatbot and semantic search built on top using RAG Built with React, Node.js, PostgreSQL, and Supabase.
 
 ---
+**[Agentic Netlist Generator](https://github.com/Alaska2005/Agentic-netlist-generator)**
+
+An offline-capable agentic AI system for generating CMOS SPICE netlists from plain text commands. Uses deterministic rule-based templates for correctness across circuits like inverters, NAND/NOR gates, differential pairs, and current mirrors — with an optional fine-tuned GPT-2-class LLM fallback. Designed for NGSpice simulation and built for extension into multi-agent workflows.
+
+---
 
 **[Portable Solar Radio Telescope](https://github.com/Alaska2005/Portable-Solar-Radio-Telescope)**
 
