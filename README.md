@@ -30,8 +30,3 @@ A low-cost, portable radio telescope for observing solar activity. Uses RTL-SDR 
 
 ---
 
-**[Hydrogen Line Analysis Tool](https://github.com/Alaska2005/Hline-analysis-tool)**
-
-A GUI-based tool for capturing and analyzing the 21 cm hydrogen line signal via RTL-SDR — used in amateur radio astronomy setups.
-
----
